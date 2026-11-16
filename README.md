@@ -2,15 +2,13 @@
 
 # Erdoğan Yerli
 
-<a href="https://github.com/YerliErdogan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=Oyun+ve+uygulama+geli%C5%9Ftiriyorum;Game+%26+mobile+app+developer;%C5%9Eu+an%3A+Okey+101+%F0%9F%8E%B2" alt="Oyun ve uygulama geliştiriyorum" />
-</a>
+<h3>Game &amp; Mobile App Developer</h3>
 
 📍 Bursa, Türkiye · 🎓 Bilgisayar Mühendisi
 
-<a href="mailto:rdgnyrl08@gmail.com"><img src="https://img.shields.io/badge/rdgnyrl08%40gmail.com-0b0e1a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="rdgnyrl08@gmail.com" /></a>
-<a href="https://www.linkedin.com/in/erdo%C4%9Fan-yerli-741b60182"><img src="https://img.shields.io/badge/LinkedIn-0b0e1a?style=for-the-badge&logo=linkedin&logoColor=6366f1" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/erdoganyerli"><img src="https://img.shields.io/badge/Instagram-0b0e1a?style=for-the-badge&logo=instagram&logoColor=d946ef" alt="Instagram" /></a>
+<a href="mailto:rdgnyrl08@gmail.com"><img src="https://img.shields.io/badge/rdgnyrl08%40gmail.com-0b0e1a?style=flat-square&logo=gmail&logoColor=EA4335" height="28" alt="rdgnyrl08@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/erdo%C4%9Fan-yerli-741b60182"><img src="https://img.shields.io/badge/linkedin-0b0e1a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzBBNjZDMiIvPjxyZWN0IHg9IjUiIHk9IjkuNSIgd2lkdGg9IjMiIGhlaWdodD0iOS41IiBmaWxsPSIjZmZmIi8%2BPGNpcmNsZSBjeD0iNi41IiBjeT0iNi41IiByPSIxLjgiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTAuNSA5LjVoMi45djEuNGMuNS0uOSAxLjYtMS43IDMuMi0xLjcgMi44IDAgMy40IDEuOCAzLjQgNC4yVjE5aC0zdi00LjljMC0xLjItLjEtMi40LTEuNi0yLjRzLTEuOSAxLjEtMS45IDIuNFYxOWgtM3oiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D" height="28" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/erdoganyerli"><img src="https://img.shields.io/badge/instagram-0b0e1a?style=flat-square&logo=instagram&logoColor=d946ef" height="28" alt="Instagram" /></a>
 
 </div>
 
@@ -32,6 +30,8 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği mezunuyum. Kendimi 
 
 ![Unity](https://img.shields.io/badge/Unity-0b0e1a?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0b0e1a?style=flat-square&logo=dotnet&logoColor=a855f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0e1a?style=flat-square&logo=javascript&logoColor=f7df1e)
+![React Native](https://img.shields.io/badge/React_Native-0b0e1a?style=flat-square&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0b0e1a?style=flat-square&logo=typescript&logoColor=3178c6)
 ![Bun](https://img.shields.io/badge/Bun-0b0e1a?style=flat-square&logo=bun&logoColor=fbf0df)
 ![Claude](https://img.shields.io/badge/Claude-0b0e1a?style=flat-square&logo=anthropic&logoColor=d97757)
