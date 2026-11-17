@@ -22,7 +22,7 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği mezunuyum. Kendimi 
 
 | Proje | Ne? | Durum |
 |---|---|---|
-| 🎲 **Okey 101** | Arkadaşlarla online oynanan, gerçekçi 3B Okey 101 (ve düz Okey) oyunu. Önce tarayıcı, sonra Steam. | ![Geliştiriliyor](https://img.shields.io/badge/geli%C5%9Ftiriliyor-oyun_motoru-22d3ee?style=flat-square) |
+| 🎲 **Okey 101** <br><sub>🔒 gizli repo</sub> | Arkadaşlarla online oynanan, gerçekçi 3B Okey 101 (ve düz Okey) oyunu. Önce tarayıcı, sonra Steam. | ![Geliştiriliyor](https://img.shields.io/badge/geli%C5%9Ftiriliyor-oyun_motoru-22d3ee?style=flat-square) |
 
 > Yeni projeler eklendikçe bu tablo güncellenir.
 
@@ -51,7 +51,7 @@ I'm a Computer Engineering graduate from Kütahya Dumlupınar University, based 
 
 | Project | What | Status |
 |---|---|---|
-| 🎲 **Okey 101** | A realistic 3D Okey 101 (and classic Okey) game to play online with friends. Browser first, then Steam. | ![In development](https://img.shields.io/badge/in_development-game_engine-22d3ee?style=flat-square) |
+| 🎲 **Okey 101** <br><sub>🔒 private repo</sub> | A realistic 3D Okey 101 (and classic Okey) game to play online with friends. Browser first, then Steam. | ![In development](https://img.shields.io/badge/in_development-game_engine-22d3ee?style=flat-square) |
 
 📫 Reach me by e-mail at `rdgnyrl08@gmail.com`, on [LinkedIn](https://www.linkedin.com/in/erdo%C4%9Fan-yerli-741b60182) or [Instagram](https://www.instagram.com/erdoganyerli).
 
