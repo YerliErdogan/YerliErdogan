@@ -4,7 +4,7 @@
 
 <h3>Game &amp; Mobile App Developer</h3>
 
-📍 Bursa, Türkiye · 🎓 Bilgisayar Mühendisi
+📍 Bursa, Türkiye · 🎓 Computer Engineer
 
 <a href="mailto:rdgnyrl08@gmail.com"><img src="https://img.shields.io/badge/rdgnyrl08%40gmail.com-0b0e1a?style=flat-square&logo=gmail&logoColor=EA4335" height="28" alt="rdgnyrl08@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/erdo%C4%9Fan-yerli-741b60182"><img src="https://img.shields.io/badge/linkedin-0b0e1a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzBBNjZDMiIvPjxyZWN0IHg9IjUiIHk9IjkuNSIgd2lkdGg9IjMiIGhlaWdodD0iOS41IiBmaWxsPSIjZmZmIi8%2BPGNpcmNsZSBjeD0iNi41IiBjeT0iNi41IiByPSIxLjgiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTAuNSA5LjVoMi45djEuNGMuNS0uOSAxLjYtMS43IDMuMi0xLjcgMi44IDAgMy40IDEuOCAzLjQgNC4yVjE5aC0zdi00LjljMC0xLjItLjEtMi40LTEuNi0yLjRzLTEuOSAxLjEtMS45IDIuNFYxOWgtM3oiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D" height="28" alt="LinkedIn" /></a>
